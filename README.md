@@ -57,7 +57,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/CodeXBotz/File-Sharing-Bot
+git clone https://github.com/MessiArmy/Are_You_Okay
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -112,7 +112,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group](https://t.me/S_F_S_OFG_02) For Support/Ashttps://t.me/SFSchannelfilehttps://t.me/SFSchannelfile) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
